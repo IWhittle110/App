@@ -31,6 +31,3 @@ def randlonglat(lat,lon,radius_metres):
 
     return (new_lat,new_lon)
 
-bath_uni = randlonglat(51.3782,2.3264, 1000)  # Bath Uni, 1000 meter radius
-print(bath_uni)
-
